@@ -2,9 +2,7 @@
 <h3 align="center">A Developer From Portugal who works mostly on GLUA, Renpy, Python, HTML and GDScript</h3>
 
 - 🔭 I’m currently working on [Lilia Roleplay Framework](https://github.com/bleonheart/Lilia)
-
-- 🌱 I’m currently learning **Cyber Security**
-
+  
 - 👨‍💻 A list of all of my projects are available at [Portofilio](https://github.com/bleonheart/Portofolio/blob/main/README.md)
 
 - 📫 Reach me on my Discord Profile **@liliaplayer**
