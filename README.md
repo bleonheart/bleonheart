@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Lilia Roleplay Framework](https://github.com/bleonheart/Lilia)
   
-- 👨‍💻 A list of all of my projects are available at [Portofilio](https://github.com/bleonheart/Portofolio/blob/main/README.md)
+- 👨‍💻 A list of all of my projects are available at [Portofilio](https://bleonheart.github.io/)
 
 - 📫 Reach me on my Discord Profile **@liliaplayer**
 
