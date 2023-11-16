@@ -5,6 +5,8 @@
   
 - 👨‍💻 A list of all of my projects are available at [Portofilio](https://bleonheart.github.io/)
 
+- 🛍️ My Content Catalog [Catalog](https://github.com/bleonheart/Leonheart-Catalog)
+
 - 📫 Reach me on my Discord Profile **@liliaplayer**
 
 <h3 align="left">Connect with me:</h3>
