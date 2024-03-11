@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leonheart</h1>
 <h3 align="center">A Developer From Portugal who works mostly on GLUA, Renpy, Python, HTML and GDScript</h3>
 
-- 🔭 I’m currently working on [Lilia Roleplay Framework](https://github.com/bleonheart/Lilia)
+- 🔭 I’m currently working on [Lilia Roleplay Framework](https://github.com/LiliaFramework/Lilia)
   
 - 👨‍💻 A list of all of my projects are available at [Portofilio](https://bleonheart.github.io/)
 
