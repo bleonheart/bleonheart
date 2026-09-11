@@ -1,22 +1,105 @@
 <h1 align="center">Hi 👋, I'm Samael</h1>
-<h3 align="center">A Developer From Portugal who works mostly on GLUA, Renpy, Python, HTML and GDScript</h3>
 
-- 🔭 I’m currently working on [Lilia Roleplay Framework](https://github.com/LiliaFramework/Lilia)
-  
-- 👨‍💻 A list of all of my projects & Content for Sale are available at [Portofolio](https://bleonheart.github.io/)
+<h3 align="center">
+Developer & Systems Administrator from Portugal focused on GLua, Python, game server infrastructure, DevOps and web technologies
+</h3>
 
-- 📫 Reach me on my Discord Profile **@liliaplayer**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/tjdf42B6xp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tjdf42B6xp" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://bleonheart.github.io/">Portfolio</a> •
+  <a href="https://github.com/LiliaFramework/Lilia">Framework</a> •
+  <a href="https://discord.com/users/210207430200524801">Discord</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bleonheart&show_icons=true&locale=en&layout=compact" alt="bleonheart" /></p>
+### About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bleonheart&show_icons=true&locale=en" alt="bleonheart" /></p>
+* 🔭 Lead developer of [Lilia Roleplay Framework](https://github.com/LiliaFramework/Lilia)
+* 🎮 Building game systems and tooling primarily with **GLua, Python and GDScript**
+* 🖥️ Managing **Linux servers, Docker environments, Kubernetes clusters and game infrastructure**
+* 🌐 Developing web applications with **HTML, CSS, JavaScript, TypeScript and React**
+* 🗄️ Working with **MySQL, MariaDB and SQLite**
+* ⚙️ Interested in **backend development, infrastructure automation, system administration and performance optimization**
+* 📦 Explore my projects and work on my [Portfolio](https://bleonheart.github.io/)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bleonheart&" alt="bleonheart" /></p>
+---
+
+### Languages & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=lua,python,godot,html,css,js,ts,react,java,go,mysql,sqlite" alt="Languages and technologies" />
+</p>
+
+### Infrastructure & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,gcp,git,github,blender,arduino" alt="Infrastructure and tools" />
+</p>
+
+---
+
+### Systems & DevOps
+
+* **Operating Systems:** Linux, server administration, SSH
+* **Containers:** Docker, Docker Compose
+* **Orchestration:** Kubernetes
+* **Web Infrastructure:** Nginx, reverse proxies, web services
+* **Databases:** MySQL, MariaDB, SQLite
+* **Version Control:** Git, GitHub
+* **Infrastructure:** Game servers, backend services, web applications and sandbox environments
+* **Operations:** Deployment, troubleshooting, maintenance, monitoring and performance optimization
+
+---
+
+### Featured Project
+
+<h3 align="center">
+  <a href="https://github.com/LiliaFramework/Lilia">Lilia Roleplay Framework</a>
+</h3>
+
+<p align="center">
+  A modular roleplay framework for Garry's Mod built with extensibility, maintainability and server development in mind.
+</p>
+
+<p align="center">
+  <a href="https://github.com/LiliaFramework/Lilia/stargazers">
+    <img src="https://img.shields.io/github/stars/LiliaFramework/Lilia?style=for-the-badge&logo=github" alt="Lilia Stars" />
+  </a>
+  <a href="https://github.com/LiliaFramework/Lilia/forks">
+    <img src="https://img.shields.io/github/forks/LiliaFramework/Lilia?style=for-the-badge&logo=github" alt="Lilia Forks" />
+  </a>
+  <a href="https://github.com/LiliaFramework/Lilia/issues">
+    <img src="https://img.shields.io/github/issues/LiliaFramework/Lilia?style=for-the-badge&logo=github" alt="Lilia Issues" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/LiliaFramework/Lilia"><strong>View Repository →</strong></a>
+</p>
+
+---
+
+### GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=bleonheart&show_icons=true&theme=github_dark&hide_border=true"
+    alt="GitHub Statistics"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=bleonheart&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bleonheart&layout=compact&theme=github_dark&hide_border=true"
+    alt="Most Used Languages"
+  />
+</p>
+
+---
