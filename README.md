@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samael</h1>
 
 <h3 align="center">
-Developer & Systems Administrator from Portugal focused on GLua, Python, game server infrastructure, DevOps and web technologies
+Developer & Systems Administrator from Portugal focused on GLua, Python, systems administration, game server infrastructure, DevOps and web technologies
 </h3>
 
 <p align="center">
@@ -16,10 +16,10 @@ Developer & Systems Administrator from Portugal focused on GLua, Python, game se
 
 * 🔭 Lead developer of [Lilia Roleplay Framework](https://github.com/LiliaFramework/Lilia)
 * 🎮 Building game systems and tooling primarily with **GLua, Python and GDScript**
-* 🖥️ Managing **Linux servers, Docker environments, Kubernetes clusters and game infrastructure**
+* 🖥️ Managing **Linux and Windows systems, Docker environments, Kubernetes clusters and game infrastructure**
 * 🌐 Developing web applications with **HTML, CSS, JavaScript, TypeScript and React**
-* 🗄️ Working with **MySQL, MariaDB and SQLite**
-* ⚙️ Interested in **backend development, infrastructure automation, system administration and performance optimization**
+* 🗄️ Working with **SQL, MySQL, MariaDB and SQLite**
+* ⚙️ Focused on **backend development, infrastructure automation, troubleshooting, testing and performance optimization**
 * 📦 Explore my projects and work on my [Portfolio](https://bleonheart.github.io/)
 
 ---
@@ -27,27 +27,43 @@ Developer & Systems Administrator from Portugal focused on GLua, Python, game se
 ### Languages & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,python,godot,html,css,js,ts,react,java,go,mysql,sqlite" alt="Languages and technologies" />
+  <img src="https://skillicons.dev/icons?i=lua,python,godot,html,css,js,ts,react,java,go,bash,powershell,mysql,sqlite" alt="Languages and technologies" />
 </p>
 
-### Infrastructure & Tools
+* **Programming & Scripting:** Lua / GLua, Python, Bash / Shell, PowerShell, GDScript, JavaScript, TypeScript, Java, Go
+* **Web:** HTML, CSS, React
+* **Data:** SQL, MySQL, MariaDB, SQLite, Excel, Power BI
+
+### Systems & Infrastructure
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,gcp,git,github,blender,arduino" alt="Infrastructure and tools" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows,docker,kubernetes,nginx,gcp,git,github" alt="Systems and infrastructure" />
 </p>
 
----
-
-### Systems & DevOps
-
-* **Operating Systems:** Linux, server administration, SSH
+* **Linux:** Ubuntu, Debian, Rocky Linux, CentOS Stream
+* **Windows:** Windows 10/11, Windows Server
+* **Remote Administration:** SSH, SFTP
 * **Containers:** Docker, Docker Compose
 * **Orchestration:** Kubernetes
 * **Web Infrastructure:** Nginx, reverse proxies, web services
-* **Databases:** MySQL, MariaDB, SQLite
+* **Cloud & Infrastructure:** Google Cloud Platform, game servers, backend services, web applications and sandbox environments
 * **Version Control:** Git, GitHub
-* **Infrastructure:** Game servers, backend services, web applications and sandbox environments
-* **Operations:** Deployment, troubleshooting, maintenance, monitoring and performance optimization
+
+### Tools & Collaboration
+
+* **Project & Issue Management:** Jira, Trello
+* **Productivity:** Microsoft 365, Google Workspace
+* **Communication:** Slack
+* **Creative & Hardware:** Blender, Arduino
+
+### IT Operations
+
+* **Systems Administration:** Linux and Windows environments, server administration and maintenance
+* **Troubleshooting & Support:** Technical troubleshooting, technical support and production issue resolution
+* **Quality:** QA, functional testing, validation and release management
+* **Requirements:** Requirements gathering, prioritization and implementation planning
+* **Documentation:** Technical documentation and operational reporting
+* **Process Improvement:** Workflow optimization, maintenance, monitoring and continuous improvement
 
 ---
 
