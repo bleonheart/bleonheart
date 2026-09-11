@@ -27,7 +27,10 @@ Developer & Systems Administrator from Portugal focused on GLua, Python, systems
 ### Languages & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,python,godot,html,css,js,ts,react,java,go,bash,powershell,mysql,sqlite" alt="Languages and technologies" />
+  <img
+    src="https://skillicons.dev/icons?i=lua,python,godot,html,css,js,ts,react,java,go,bash,powershell,mysql,sqlite"
+    alt="Languages and technologies"
+  />
 </p>
 
 * **Programming & Scripting:** Lua / GLua, Python, Bash / Shell, PowerShell, GDScript, JavaScript, TypeScript, Java, Go
@@ -37,7 +40,10 @@ Developer & Systems Administrator from Portugal focused on GLua, Python, systems
 ### Systems & Infrastructure
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows,docker,kubernetes,nginx,gcp,git,github" alt="Systems and infrastructure" />
+  <img
+    src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows,docker,kubernetes,nginx,gcp,git,github"
+    alt="Systems and infrastructure"
+  />
 </p>
 
 * **Linux:** Ubuntu, Debian, Rocky Linux, CentOS Stream
@@ -70,7 +76,9 @@ Developer & Systems Administrator from Portugal focused on GLua, Python, systems
 ### Featured Project
 
 <h3 align="center">
-  <a href="https://github.com/LiliaFramework/Lilia">Lilia Roleplay Framework</a>
+  <a href="https://github.com/LiliaFramework/Lilia">
+    Lilia Roleplay Framework
+  </a>
 </h3>
 
 <p align="center">
@@ -79,13 +87,24 @@ Developer & Systems Administrator from Portugal focused on GLua, Python, systems
 
 <p align="center">
   <a href="https://github.com/LiliaFramework/Lilia/stargazers">
-    <img src="https://img.shields.io/github/stars/LiliaFramework/Lilia?style=for-the-badge&logo=github" alt="Lilia Stars" />
+    <img
+      src="https://img.shields.io/github/stars/LiliaFramework/Lilia?style=for-the-badge&logo=github"
+      alt="Lilia Stars"
+    />
   </a>
+
   <a href="https://github.com/LiliaFramework/Lilia/forks">
-    <img src="https://img.shields.io/github/forks/LiliaFramework/Lilia?style=for-the-badge&logo=github" alt="Lilia Forks" />
+    <img
+      src="https://img.shields.io/github/forks/LiliaFramework/Lilia?style=for-the-badge&logo=github"
+      alt="Lilia Forks"
+    />
   </a>
+
   <a href="https://github.com/LiliaFramework/Lilia/issues">
-    <img src="https://img.shields.io/github/issues/LiliaFramework/Lilia?style=for-the-badge&logo=github" alt="Lilia Issues" />
+    <img
+      src="https://img.shields.io/github/issues/LiliaFramework/Lilia?style=for-the-badge&logo=github"
+      alt="Lilia Issues"
+    />
   </a>
 </p>
 
@@ -95,8 +114,12 @@ Developer & Systems Administrator from Portugal focused on GLua, Python, systems
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bleonheart&theme=github_dark"
-    alt="GitHub Profile Details"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bleonheart&theme=github_dark"
+    alt="Repositories Per Language"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bleonheart&theme=github_dark"
+    alt="Most Used Languages"
   />
 </p>
 
@@ -109,12 +132,8 @@ Developer & Systems Administrator from Portugal focused on GLua, Python, systems
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bleonheart&theme=github_dark"
-    alt="Repositories Per Language"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bleonheart&theme=github_dark"
-    alt="Most Used Languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bleonheart&theme=github_dark"
+    alt="GitHub Profile Details"
   />
 </p>
 
