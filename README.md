@@ -83,8 +83,8 @@ Developer & Systems Administrator from Portugal focused on GLua, Python, game se
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=bleonheart&show_icons=true&theme=github_dark&hide_border=true"
-    alt="GitHub Statistics"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bleonheart&theme=github_dark"
+    alt="GitHub Profile Details"
   />
 </p>
 
@@ -97,7 +97,11 @@ Developer & Systems Administrator from Portugal focused on GLua, Python, game se
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bleonheart&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bleonheart&theme=github_dark"
+    alt="Repositories Per Language"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bleonheart&theme=github_dark"
     alt="Most Used Languages"
   />
 </p>
