@@ -89,10 +89,6 @@ Developer & Systems Administrator from Portugal focused on GLua, Python, systems
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/LiliaFramework/Lilia"><strong>View Repository →</strong></a>
-</p>
-
 ---
 
 ### GitHub Statistics
