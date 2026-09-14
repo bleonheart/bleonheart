@@ -7,7 +7,7 @@ Developer & Systems Administrator from Portugal focused on GLua, Python, systems
 <p align="center">
   <a href="https://bleonheart.github.io/">Portfolio</a> •
   <a href="https://github.com/LiliaFramework/Lilia">Framework</a> •
-  <a href="https://discord.com/users/210207430200524801">Discord</a>
+  <a href="https://discord.com/users/245205823909789706">Discord</a>
 </p>
 
 ---
