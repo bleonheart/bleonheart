@@ -15,11 +15,13 @@ Developer & Systems Administrator from Portugal focused on GLua, Python, systems
 ### About Me
 
 * 🔭 Lead developer of [Lilia Roleplay Framework](https://github.com/LiliaFramework/Lilia)
+* 🚀 Currently working on **Project Fantasia**, built with **Unity 6.6**
 * 🎮 Building game systems and tooling primarily with **GLua, Python and GDScript**
 * 🖥️ Managing **Linux and Windows systems, Docker environments, Kubernetes clusters and game infrastructure**
 * 🌐 Developing web applications with **HTML, CSS, JavaScript, TypeScript and React**
-* 🗄️ Working with **SQL, MySQL, MariaDB and SQLite**
-* ⚙️ Focused on **backend development, infrastructure automation, troubleshooting, testing and performance optimization**
+* 🗄️ Working with **PostgreSQL, MySQL, MariaDB, SQLite and SQL-based systems**
+* ⚙️ Focused on **backend development, CI/CD, infrastructure automation, troubleshooting, testing and performance optimization**
+* 🎯 Managing and deploying game servers with **SteamCMD, SRCDS, Pterodactyl and LinuxGSM**
 * 📦 Explore my projects and work on my [Portfolio](https://bleonheart.github.io/)
 
 ---
@@ -28,20 +30,23 @@ Developer & Systems Administrator from Portugal focused on GLua, Python, systems
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=lua,python,godot,html,css,js,ts,react,java,go,bash,powershell,mysql,sqlite"
+    src="https://skillicons.dev/icons?i=lua,python,godot,unity,html,css,js,ts,react,java,go,bash,powershell,postgres,mysql,sqlite"
     alt="Languages and technologies"
   />
 </p>
 
 * **Programming & Scripting:** Lua / GLua, Python, Bash / Shell, PowerShell, GDScript, JavaScript, TypeScript, Java, Go
-* **Web:** HTML, CSS, React
-* **Data:** SQL, MySQL, MariaDB, SQLite, Excel, Power BI
+* **Game Development:** Unity 6.6, Godot
+* **Web:** HTML, CSS, JavaScript, TypeScript, React
+* **Data:** SQL, PostgreSQL, MySQL, MariaDB, SQLite, Excel, Power BI
+
+---
 
 ### Systems & Infrastructure
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows,docker,kubernetes,nginx,gcp,git,github"
+    src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows,docker,kubernetes,nginx,cloudflare,gcp,git,github,githubactions"
     alt="Systems and infrastructure"
   />
 </p>
@@ -51,9 +56,24 @@ Developer & Systems Administrator from Portugal focused on GLua, Python, systems
 * **Remote Administration:** SSH, SFTP
 * **Containers:** Docker, Docker Compose
 * **Orchestration:** Kubernetes
-* **Web Infrastructure:** Nginx, reverse proxies, web services
-* **Cloud & Infrastructure:** Google Cloud Platform, game servers, backend services, web applications and sandbox environments
+* **CI/CD & Automation:** GitHub Actions
+* **Web Infrastructure:** Nginx, Cloudflare, reverse proxies, web services
+* **Cloud & Infrastructure:** Google Cloud Platform, backend services, web applications and sandbox environments
 * **Version Control:** Git, GitHub
+
+---
+
+### Game Server Infrastructure
+
+* **Deployment & Management:** SteamCMD, LinuxGSM
+* **Source Engine:** SRCDS
+* **Game Server Panels:** Pterodactyl
+* **Administration:** Dedicated servers, configuration, deployment, updates and maintenance
+* **Operations:** Monitoring, troubleshooting, backups and performance optimization
+* **Networking:** Reverse proxies, firewall configuration, ports, DNS and service exposure
+* **Automation:** Deployment scripts, update workflows and server maintenance tooling
+
+---
 
 ### Tools & Collaboration
 
@@ -62,11 +82,14 @@ Developer & Systems Administrator from Portugal focused on GLua, Python, systems
 * **Communication:** Slack
 * **Creative & Hardware:** Blender, Arduino
 
+---
+
 ### IT Operations
 
 * **Systems Administration:** Linux and Windows environments, server administration and maintenance
 * **Troubleshooting & Support:** Technical troubleshooting, technical support and production issue resolution
 * **Quality:** QA, functional testing, validation and release management
+* **CI/CD:** Automated builds, validation and deployment workflows with GitHub Actions
 * **Requirements:** Requirements gathering, prioritization and implementation planning
 * **Documentation:** Technical documentation and operational reporting
 * **Process Improvement:** Workflow optimization, maintenance, monitoring and continuous improvement
@@ -136,5 +159,3 @@ Developer & Systems Administrator from Portugal focused on GLua, Python, systems
     alt="GitHub Profile Details"
   />
 </p>
-
----
