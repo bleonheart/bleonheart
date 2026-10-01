@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Samael</h1>
 
 <h3 align="center">
-Developer & Systems Administrator from Portugal focused on GLua, Python, systems administration, game server infrastructure, DevOps and web technologies
+Linux Systems Administrator | DevOps | IT Operations | Software Developer
 </h3>
 
 <p align="center">
+  Production systems, infrastructure automation, containers, cloud, CI/CD, databases, networking, troubleshooting and software development.
+</p>
+
+<p align="center">
   <a href="https://bleonheart.github.io/">Portfolio</a> •
-  <a href="https://github.com/LiliaFramework/Lilia">Framework</a> •
+  <a href="https://github.com/LiliaFramework/Lilia">Lilia Framework</a> •
   <a href="https://discord.com/users/245205823909789706">Discord</a>
 </p>
 
@@ -16,50 +20,108 @@ Developer & Systems Administrator from Portugal focused on GLua, Python, systems
 
 * 🔭 Lead developer of [Lilia Roleplay Framework](https://github.com/LiliaFramework/Lilia)
 * 🚀 Currently working on **Project Fantasia**, built with **Unity 6.6**
-* 🎮 Building game systems and tooling primarily with **GLua, Python and GDScript**
-* 🖥️ Managing **Linux and Windows systems, Docker environments, Kubernetes clusters and game infrastructure**
-* 🌐 Developing web applications with **HTML, CSS, JavaScript, TypeScript and React**
-* 🗄️ Working with **PostgreSQL, MySQL, MariaDB, SQLite and SQL-based systems**
-* ⚙️ Focused on **backend development, CI/CD, infrastructure automation, troubleshooting, testing and performance optimization**
-* 🎯 Managing and deploying game servers with **SteamCMD, SRCDS, Pterodactyl and LinuxGSM**
-* 📦 Explore my projects and work on my [Portfolio](https://bleonheart.github.io/)
+* 🐧 Administering **Linux and Windows production systems**, services and infrastructure
+* 📦 Building and operating **Docker, Docker Compose and Kubernetes** environments
+* ☁️ Working across **AWS, Microsoft Azure, Google Cloud Platform, Proxmox and Cloudflare**
+* ⚙️ Automating infrastructure and delivery with **Terraform, Ansible, GitHub Actions, GitLab CI/CD and Jenkins**
+* 🎮 Building game systems and tooling with **GLua, Python, GDScript and game-server technologies**
+* 🌐 Developing web and backend systems with **HTML, CSS, JavaScript, TypeScript, React and SQL databases**
+* 🧰 Focused on **production support, troubleshooting, incident resolution, testing, performance and reliability**
+* 📦 Explore more projects and technical work on my [Portfolio](https://bleonheart.github.io/)
 
 ---
 
-### Languages & Technologies
+### Programming, Scripting & Web
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=lua,python,godot,unity,html,css,js,ts,react,java,go,bash,powershell,postgres,mysql,sqlite"
-    alt="Languages and technologies"
+    src="https://skillicons.dev/icons?i=lua,python,bash,powershell,html,css,js,ts,react,java,go,godot,unity"
+    alt="Programming, scripting and web technologies"
   />
 </p>
 
 * **Programming & Scripting:** Lua / GLua, Python, Bash / Shell, PowerShell, GDScript, JavaScript, TypeScript, Java, Go
-* **Game Development:** Unity 6.6, Godot
 * **Web:** HTML, CSS, JavaScript, TypeScript, React
-* **Data:** SQL, PostgreSQL, MySQL, MariaDB, SQLite, Excel, Power BI
+* **Game Development:** Unity 6.6, Godot
+* **Backend:** API and application development, automation, integrations and data persistence
 
 ---
 
-### Systems & Infrastructure
+### Linux, Systems & Administration
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows,docker,kubernetes,nginx,cloudflare,gcp,git,github,githubactions"
-    alt="Systems and infrastructure"
+    src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows"
+    alt="Operating systems"
   />
 </p>
 
 * **Linux:** Ubuntu, Debian, Rocky Linux, CentOS Stream
-* **Windows:** Windows 10/11, Windows Server
+* **Windows:** Windows Server, Windows 10/11
 * **Remote Administration:** SSH, SFTP
+* **Service & Task Management:** systemd, cron
+* **Systems Administration:** Production services, configuration, maintenance, updates, availability and performance
+* **Operations:** Technical support, troubleshooting, ticket resolution, incident resolution and production support
+
+---
+
+### DevOps, CI/CD & Infrastructure as Code
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,gitlab,jenkins,terraform,ansible"
+    alt="DevOps, CI/CD and infrastructure as code"
+  />
+</p>
+
 * **Containers:** Docker, Docker Compose
 * **Orchestration:** Kubernetes
-* **CI/CD & Automation:** GitHub Actions
-* **Web Infrastructure:** Nginx, Cloudflare, reverse proxies, web services
-* **Cloud & Infrastructure:** Google Cloud Platform, backend services, web applications and sandbox environments
 * **Version Control:** Git, GitHub
+* **CI/CD:** GitHub Actions, GitLab CI/CD, Jenkins
+* **Infrastructure as Code:** Terraform
+* **Configuration Management & Automation:** Ansible
+* **Automation:** Deployment workflows, maintenance tooling, scripting and repeatable infrastructure operations
+
+---
+
+### Cloud & Infrastructure
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare"
+    alt="Cloud platforms"
+  />
+</p>
+
+* **Cloud Platforms:** AWS, Microsoft Azure, Google Cloud Platform
+* **Virtualization & Infrastructure:** Proxmox
+* **Edge & Web Infrastructure:** Cloudflare, Cloudflare Workers
+* **Infrastructure Services:** Load balancing, reverse proxies, service exposure and production deployments
+
+---
+
+### Databases, Data & Analytics
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"
+    alt="Databases"
+  />
+</p>
+
+* **SQL & Databases:** SQL, PostgreSQL, MySQL, MariaDB, SQLite
+* **Data & Reporting:** Excel, Power BI
+* **Database Work:** Schema design, queries, data processing, persistence, administration and troubleshooting
+
+---
+
+### Networking & Security
+
+* **Security & Diagnostics:** FortiGate, Wireshark
+* **Linux Firewalling:** iptables, nftables
+* **Networking:** VLANs, NAT, port forwarding, subnetting, CIDR and routing
+* **Traffic & Availability:** Load balancing and reverse proxies
+* **Operations:** Firewall configuration, ports, DNS, service exposure and connectivity troubleshooting
 
 ---
 
@@ -70,8 +132,21 @@ Developer & Systems Administrator from Portugal focused on GLua, Python, systems
 * **Game Server Panels:** Pterodactyl
 * **Administration:** Dedicated servers, configuration, deployment, updates and maintenance
 * **Operations:** Monitoring, troubleshooting, backups and performance optimization
-* **Networking:** Reverse proxies, firewall configuration, ports, DNS and service exposure
 * **Automation:** Deployment scripts, update workflows and server maintenance tooling
+
+---
+
+### IT Operations, QA & Support
+
+* **Production Support:** Production systems and service operations
+* **Troubleshooting:** Technical diagnosis, root-cause investigation and issue resolution
+* **Ticket & Incident Management:** Ticket resolution, incident resolution and escalation handling
+* **Systems Administration:** Linux and Windows administration, services and infrastructure
+* **Technical Support:** User, customer and operational support
+* **QA & Testing:** Functional testing, validation, release testing and quality control
+* **Requirements:** Requirements gathering, prioritization and implementation planning
+* **Documentation:** Technical documentation and operational reporting
+* **Process Improvement:** Workflow optimization, maintenance and continuous improvement
 
 ---
 
@@ -81,18 +156,6 @@ Developer & Systems Administrator from Portugal focused on GLua, Python, systems
 * **Productivity:** Microsoft 365, Google Workspace
 * **Communication:** Slack
 * **Creative & Hardware:** Blender, Arduino
-
----
-
-### IT Operations
-
-* **Systems Administration:** Linux and Windows environments, server administration and maintenance
-* **Troubleshooting & Support:** Technical troubleshooting, technical support and production issue resolution
-* **Quality:** QA, functional testing, validation and release management
-* **CI/CD:** Automated builds, validation and deployment workflows with GitHub Actions
-* **Requirements:** Requirements gathering, prioritization and implementation planning
-* **Documentation:** Technical documentation and operational reporting
-* **Process Improvement:** Workflow optimization, maintenance, monitoring and continuous improvement
 
 ---
 
@@ -115,14 +178,12 @@ Developer & Systems Administrator from Portugal focused on GLua, Python, systems
       alt="Lilia Stars"
     />
   </a>
-
   <a href="https://github.com/LiliaFramework/Lilia/forks">
     <img
       src="https://img.shields.io/github/forks/LiliaFramework/Lilia?style=for-the-badge&logo=github"
       alt="Lilia Forks"
     />
   </a>
-
   <a href="https://github.com/LiliaFramework/Lilia/issues">
     <img
       src="https://img.shields.io/github/issues/LiliaFramework/Lilia?style=for-the-badge&logo=github"
