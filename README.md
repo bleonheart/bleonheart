@@ -43,7 +43,8 @@ Linux Systems Administrator | DevOps | IT Operations | Software Developer
 * **Programming & Scripting:** Lua / GLua, Python, Bash / Shell, PowerShell, GDScript, JavaScript, TypeScript, Java, Go
 * **Web:** HTML, CSS, JavaScript, TypeScript, React
 * **Game Development:** Unity 6.6, Godot
-* **Backend:** API and application development, automation, integrations and data persistence
+* **Backend:** REST APIs, Server-Sent Events, RBAC, background workers, job scheduling, database migrations, concurrency control, structured logging, health/readiness endpoints, automation, integrations and data persistence
+* **Desktop Development:** PySide6 / Qt
 
 ---
 
@@ -75,12 +76,13 @@ Linux Systems Administrator | DevOps | IT Operations | Software Developer
 </p>
 
 * **Containers:** Docker, Docker Compose
-* **Orchestration:** Kubernetes
+* **Orchestration:** Kubernetes, Kustomize
 * **Version Control:** Git, GitHub
 * **CI/CD:** GitHub Actions, GitLab CI/CD, Jenkins
+* **Validation & Code Quality:** ShellCheck, SQLFluff, kubeconform, SARIF
 * **Infrastructure as Code:** Terraform
 * **Configuration Management & Automation:** Ansible
-* **Automation:** Deployment workflows, maintenance tooling, scripting and repeatable infrastructure operations
+* **Automation:** Deployment workflows, maintenance tooling, Make / Makefiles, scripting and repeatable infrastructure operations
 
 ---
 
@@ -95,8 +97,10 @@ Linux Systems Administrator | DevOps | IT Operations | Software Developer
 
 * **Cloud Platforms:** AWS, Microsoft Azure, Google Cloud Platform
 * **Virtualization & Infrastructure:** Proxmox
-* **Edge & Web Infrastructure:** Cloudflare, Cloudflare Workers
+* **Edge & Web Infrastructure:** Cloudflare, Cloudflare Workers, Nginx
 * **Infrastructure Services:** Load balancing, reverse proxies, service exposure and production deployments
+* **Observability:** Prometheus, Grafana, Loki, Alertmanager, Grafana Alloy, cAdvisor, Prometheus exporters
+* **Operational Telemetry:** Metrics, dashboards, centralized logging, structured logs, alerting, health checks and readiness probes
 
 ---
 
@@ -128,7 +132,7 @@ Linux Systems Administrator | DevOps | IT Operations | Software Developer
 ### Game Server Infrastructure
 
 * **Deployment & Management:** SteamCMD, LinuxGSM
-* **Source Engine:** SRCDS
+* **Source Engine:** SRCDS, RCON
 * **Game Server Panels:** Pterodactyl
 * **Administration:** Dedicated servers, configuration, deployment, updates and maintenance
 * **Operations:** Monitoring, troubleshooting, backups and performance optimization
@@ -155,6 +159,8 @@ Linux Systems Administrator | DevOps | IT Operations | Software Developer
 * **Project & Issue Management:** Jira, Trello
 * **Productivity:** Microsoft 365, Google Workspace
 * **Communication:** Slack
+* **Developer Tooling:** Language Server Protocol (LSP), Graphviz / DOT, SARIF
+* **Desktop UI:** PySide6 / Qt
 * **Creative & Hardware:** Blender, Arduino
 
 ---
